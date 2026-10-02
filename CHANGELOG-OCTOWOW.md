@@ -1,6 +1,6 @@
 # Changelog OctoWoW – Bagshui
 
-> Branch `octowow` = the state from Henry's "OctoWoW – HD Upgrade" install (WoW 1.12).
+> Branch `octowow` = the state from Dinkleberrrg's "OctoWoW – HD Upgrade" install (WoW 1.12).
 
 **Base:** absir/Bagshui `05d269b` (2024-12-31)
 

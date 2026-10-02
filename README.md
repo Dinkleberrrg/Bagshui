@@ -1,6 +1,6 @@
-## OctoWoW note
+## Notable changes
 
-Unchanged mirror of **The-Kludge-Bureau/Bagshui (tag 1.5.16)**, the last release for Vanilla/Turtle WoW (newer versions are WotLK-only). Kept so the Octo launcher installs the right version.
+None. Unchanged mirror of **The-Kludge-Bureau/Bagshui** 1.5.16, the last release for Vanilla/Turtle WoW (newer versions are WotLK-only).
 
 ---
 

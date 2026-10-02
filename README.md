@@ -1,3 +1,9 @@
+## OctoWoW note
+
+Unchanged mirror of **The-Kludge-Bureau/Bagshui (tag 1.5.16)**, the last release for Vanilla/Turtle WoW (newer versions are WotLK-only). Kept so the Octo launcher installs the right version.
+
+---
+
 <h1>
 <img src="Images/Logo.svg" width="204" align="left" alt="Bagshui">
 <div width="100%">&nbsp;<br></div>
